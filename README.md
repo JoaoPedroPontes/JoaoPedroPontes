@@ -1,6 +1,5 @@
 # Hi, my name's João.
 🌎 I'm live in Brazil
-
 📖 I'm learning HTML, CSS and JavaScript in MDN Mozilla https://developer.mozilla.org/pt-BR/
 
 
