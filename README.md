@@ -1,7 +1,7 @@
 <h1> Hi, my name's João.</h1>
-<p>🌎 I'm live in Brazil</p>
-<p>📖 I'm learning HTML, CSS and JavaScript in MDN Mozilla https://developer.mozilla.org/pt-BR/</p>
-<p>🐧I use GNU/Linux Debian</p>
+🌎 I'm live in Brazil
+📖 I'm learning HTML, CSS and JavaScript in MDN Mozilla https://developer.mozilla.org/pt-BR/
+🐧I use GNU/Linux Debian
 
 
 <div style="display: inline_block"><br>
