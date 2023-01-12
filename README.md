@@ -1,5 +1,5 @@
 <h1> Hi, my name's João.</h1>
-🌎 I'm live in Brazil
+🌎 I'm live in Brazil<br>
 📖 I'm learning HTML, CSS and JavaScript in MDN Mozilla https://developer.mozilla.org/pt-BR/
 🐧I use GNU/Linux Debian
 
