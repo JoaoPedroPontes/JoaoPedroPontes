@@ -1,5 +1,7 @@
-## Hi, my name's João.
+# Hi, my name's João.
+🌎 I'm live in Brazil
 📖 I'm learning HTML, CSS and JavaScript in MDN Mozilla https://developer.mozilla.org/pt-BR/
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
