@@ -1,7 +1,11 @@
 <h1> Hi, my name's João.</h1>
 🌎 I'm Brazilian<br>
-📖 I'm learning HTML, CSS and JavaScript in MDN Mozilla https://developer.mozilla.org/pt-BR/<br> <h1>Ola</h1>
+📖 I'm learning HTML, CSS and JavaScript in MDN Mozilla https://developer.mozilla.org/pt-BR/<br> 
 🐧I use GNU/Linux Debian
+🎮 I love The Legend Of Zelda games
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.eco.br%2Fgifs-do-link%2F&psig=AOvVaw27BPgkXN1cnGPtkRjt45uR&ust=1674949441697000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPDijob36PwCFQAAAAAdAAAAABAE">
+
 
 
 <div style="display: inline_block"><br>
