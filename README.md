@@ -4,7 +4,7 @@
 🐧I use GNU/Linux Debian
 🎮 I love The Legend Of Zelda games
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.eco.br%2Fgifs-do-link%2F&psig=AOvVaw27BPgkXN1cnGPtkRjt45uR&ust=1674949441697000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPDijob36PwCFQAAAAAdAAAAABAE">
+<img src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-link-0.gif">
 
 
 
