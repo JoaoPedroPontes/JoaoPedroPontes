@@ -2,10 +2,6 @@
 🌎 I'm Brazilian<br>
 📖 I'm learning HTML, CSS and JavaScript at MDN Mozilla https://developer.mozilla.org/pt-BR/<br> 
 🐧I use GNU/Linux Debian<br>
-🎮 I love The Legend Of Zelda games
-
-<img src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-link-0.gif" height="200" width="200">
-
 
 
 <div style="display: inline_block"><br>
