@@ -1,9 +1,13 @@
 
+```
+  vim welcome.c
+```
+writting code...
 ```c
 #include <stdio.h>
 
 int main(void){
-  char *phrase = "Hello World\n";
+  char *phrase = "Welcome to my Github profile\n";
 
   printf(phrase);
 
@@ -11,3 +15,11 @@ int main(void){
 }
 
 ```
+let's compile it...
+```
+gcc -Wall welcome.c -o welcome
+```
+
+Output
+
+## Welcome to my Github profile
