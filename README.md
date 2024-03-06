@@ -34,4 +34,4 @@ Output
 
 
 ## About me
-Hello github user, my name's joão, I'm 16 year old, I program em C and I know a little about Shell Script.
+Hello github user, my name's joão, I'm 16 years old, I program em C and I know a little about Shell Script.
