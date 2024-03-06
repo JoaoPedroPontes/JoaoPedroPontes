@@ -20,6 +20,13 @@ let's compile it...
 gcc -Wall welcome.c -o welcome
 ```
 
+executing it
+```
+ ./welcome
+```
+
+
 Output
 
 ## Welcome to my Github profile
+❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
