@@ -28,5 +28,10 @@ executing it
 
 Output
 
-## Welcome to my Github profile
-❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
+#### Welcome to my Github profile
+❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
+
+
+
+## About me
+Hello github user, my name's joão, I'm 16 year old, I program em C and I know a little about Shell Script.
