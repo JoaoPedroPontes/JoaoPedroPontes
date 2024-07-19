@@ -1,3 +1,8 @@
 ```c
-printf ("Hello Wordl");
+#include <stdio.h>
+int main(void)
+{
+  printf ("Hello Wordl");
+  return 0;
+}
 ```
